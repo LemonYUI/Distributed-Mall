@@ -1,7 +1,5 @@
 # gmall
-分布式商城项目（纯后端）
-
-Springboot+dubbo的小型分布式商城微服务项目
+Springboot+dubbo的小型分布式商城微服务项目(后台)
 
 ## web项目
 
