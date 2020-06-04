@@ -1,5 +1,9 @@
 # gmall
-Springboot+dubbo的小型分布式商城微服务项目(后台)
+Springboot+Dubbo的小型分布式商城微服务项目(后台)
+
+整合了 Redis Elasticsearch RabbitMQ等技术，加入了单点登录，支付宝支付等功能
+
+MySql采用了主从复制读写分离来做数据库的优化与配置，ORM框架采用MyBatis
 
 ## web项目
 
