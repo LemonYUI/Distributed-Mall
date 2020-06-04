@@ -12,7 +12,7 @@
     <artifactId>gmall-admin-web</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>gmall-admin-web</name>
-    <description>与后端前台页面交互模块</description>
+    <description>与后台前端页面交互模块</description>
 
     <properties>
         <java.version>1.8</java.version>
